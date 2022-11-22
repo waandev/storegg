@@ -3,7 +3,7 @@ export default function Profile() {
 		<div className="user text-center pb-50 pe-30">
 			<img
 				className="img-fluid mb-20"
-				src="img/avatar-1.png"
+				src="/img/avatar-1.png"
 				width="90"
 				height="90"
 				alt=""
